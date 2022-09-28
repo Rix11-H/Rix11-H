@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ricky Heylen, a junior fullstack developer interested mostly in creative and challenging projects.
 
-My favourite programming language: <span style="background-color:yellow">⚡Javascript⚡</span>.
+My favourite programming language: <span style="background-color:rgb(255, 210, 15)">⚡Javascript⚡</span>.
 
 Some other technologies and languages I have experience with:
 
