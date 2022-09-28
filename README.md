@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Ricky Heylen, a junior fullstack developer interested mostly in creative and challenging projects.
+
+My favourite programming language: <span style="backgroundcolor:yellow">⚡Javascript⚡</span>.
+
+Some other technologies and languages I have experience with:
 
 <!--
 **Rix11-H/Rix11-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
