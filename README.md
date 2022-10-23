@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Ricky Heylen, a junior fullstack developer interested mostly in creative (javascript-based) projects.
+My name is [Ricky Heylen](https://www.rickyheylen.be/), a junior fullstack developer interested mostly in creative (javascript-based) projects.
 
 
 One of the most important things you should know about me, is that I am a jack of all trades. 
