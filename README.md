@@ -15,7 +15,6 @@ As a student Interactive Multimedia Desing, I learned to develop a ton of digita
 
 | Title      | Description  | Link       | Skills     |
 |:-----------|:-------------|:-----------|:-----------|
-
 | Ricky's space station | For my first THREE project, I build this basic space station. | [Live deployment](https://rickys-space-station.vercel.app/) | <code>Javascript</code><code>THREE.js</code><code>Vercel</code> |
 | Marvel's Weather Heroes| An exercise on API connection in which I combined the Marvel api with a weather api. | [Live deployment](https://weather-application-rix11-h.vercel.app/) | <code>Javascript</code><code>API</code><code>Vercel</code> |
 | insert title | description | [link here](www.google.com) | <code></code> |
