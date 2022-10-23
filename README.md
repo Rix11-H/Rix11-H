@@ -12,6 +12,7 @@ I am very pleased to have noticed that this quality makes me a great asset in pr
 
 As a student Interactive Multimedia Desing, I learned to develop a ton of digital skills. You should probably know that my expertise in development vastly outweighs my ability in design. That said, I do know the basics of both worlds and above all, where I fall short, I'm always eager to learn more.
 
+## ✨ Featured Projects
 
 | Title       | Description  | Skills     |
 |:------------|:-------------|:-----------|
@@ -39,11 +40,6 @@ As a student Interactive Multimedia Desing, I learned to develop a ton of digita
 
 ### Project Management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rix11-H&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rix11-H&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rix11-H&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rix11-H&icon=0&color=9)](https://visitcount.itsvg.in)
