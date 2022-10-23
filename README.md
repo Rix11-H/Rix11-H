@@ -16,12 +16,11 @@ As a student Interactive Multimedia Desing, I learned to develop a ton of digita
 | Title       | Description  | Skills     |
 |:------------|:-------------|:-----------|
 | [Ricky's space station](https://rickys-space-station.vercel.app/) | For my first THREE project, I build this basic space station. | <code>Javascript</code> <code>THREE.js</code> <code>Vercel</code> |
-| [Marvel's Weather Heroes](https://weather-application-rix11-h.vercel.app/) | An exercise on API connection in which I combined the Marvel api with a weather api. | [ <code>Javascript</code> <code>API</code> <code>Vercel</code> |
+| [Marvel's Weather Heroes](https://weather-application-rix11-h.vercel.app/) | An exercise on API connection in which I combined the Marvel api with a weather api. | <code>Javascript</code> <code>API</code> <code>Vercel</code> |
 | [Studio Scharnier](https://studioscharnier.heylenricky.be/) | A platform I build to connect a neighbourhood through the people's stories. | <code>sass</code> <code>PHP</code> <code>SCRUM</code> <code>Concept development</code> |
 | [Kraakkwartier podcast](https://open.spotify.com/show/5TmPnLZdxwhk2bWneCQQdT?si=f1f942b3d4c84370) | Not everything I do is coding! Proud to be a part of this (Belgian) podcast team! | <code>Audio tech</code> <code>Project Management</code> <code>Concept development</code> |
 | [To do app](https://drjo1x.csb.app/) | A simple Javascript to-do application to get familiar with ES6 coding standards | <code>Javascript</code> <code>ES6</code> |
-| [Live Quidditch Scoreboard (repo link)](https://github.com/Rix11-H/live-scoreboard-app)
- | An exercise on websockets, building this live scoreboard app | <code>Javascript</code> <code>websockets</code> <code>Primus.js</code> <code>Express.js</code> |
+| [Live Quidditch Scoreboard (repo link)](https://github.com/Rix11-H/live-scoreboard-app) | An exercise on websockets, building this live scoreboard app | <code>Javascript</code> <code>websockets</code> <code>Primus.js</code> <code>Express.js</code> |
 
 ## 😁 Reach out to me!:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rix.heylen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricky-h-7bab56a3/) 
