@@ -1,6 +1,25 @@
 # Hi there 👋
 My name is Ricky Heylen, a junior fullstack developer interested mostly in creative (javascript-based) projects.
 
+
+One of the most important things you should know about me, is that I am a jack of all trades. 
+For a long time I engaged this feature as a downside but nowadays, I see it as a strength.
+Not only does it allow me to be creative in my work, it also allows me to be creative in my life.
+
+When I say "creative", I probably mean a whole lot more than what primarily comes to mind. It defines me in how I handle the problems that cross my path, as well as how I interact with others.
+In fact, I sometimes doubt my own creative capability. However this doubt is always opposed by my willingness to innovate, help others and think out of the box. 
+I am very pleased to have noticed that this quality makes me a great asset in processes involving concept development, project management and team work in general.
+
+As a student Interactive Multimedia Desing, I learned to develop a ton of digital skills. You should probably know that my expertise in development vastly outweighs my ability in design. That said, I do know the basics of both worlds and above all, where I fall short, I'm always eager to learn more.
+
+
+| Title      | Description  | Link       | Skills     |
+|:-----------|:-------------|:-----------|:-----------|
+
+| Ricky's space station | For my first THREE project, I build this basic space station. | [Live deployment](https://rickys-space-station.vercel.app/) | <code>Javascript</code><code>THREE.js</code><code>Vercel</code> |
+| Marvel's Weather Heroes| An exercise on API connection in which I combined the Marvel api with a weather api. | [Live deployment](https://weather-application-rix11-h.vercel.app/) | <code>Javascript</code><code>API</code><code>Vercel</code> |
+| insert title | description | [link here](www.google.com) | <code></code> |
+
 ## 😁 Reach out to me!:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rix.heylen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricky-h-7bab56a3/) 
 
