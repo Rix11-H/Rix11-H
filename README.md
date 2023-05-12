@@ -16,6 +16,7 @@ As a student Interactive Multimedia Desing, I learned to develop a ton of digita
 
 | Title       | Description  | Skills     |
 |:------------|:-------------|:-----------|
+| [Sofa 3D Configurator](https://sofa-configurator-rd3g.vercel.app/) | During my internship at [Flux](https://flux.be), I learned all about React Three Fiber and built this sofa 3D Demo to configure your own customized sectional sofa's! | <code>Javascript</code> <code>Three.js</code> <code>React Three Fiber</code> |
 | [Ricky's space station](https://rickys-space-station.vercel.app/) | For my first THREE project, I build this basic space station. | <code>Javascript</code> <code>THREE.js</code> <code>Vercel</code> |
 | [Marvel's Weather Heroes](https://weather-application-rix11-h.vercel.app/) | An exercise on API connection in which I combined the Marvel api with a weather api. | <code>Javascript</code> <code>API</code> <code>Vercel</code> |
 | [Studio Scharnier](https://studioscharnier.heylenricky.be/) | A platform I build to connect a neighbourhood through the people's stories. | <code>sass</code> <code>PHP</code> <code>SCRUM</code> <code>Concept development</code> |
