@@ -16,6 +16,8 @@ As a student Interactive Multimedia Desing, I learned to develop a ton of digita
 
 | Title       | Description  | Skills     |
 |:------------|:-------------|:-----------|
+| [Dinosource.agency](https://github.com/Rix11-H/dinosource.agency) | Having a great experience at the student agency [Dinosource](https://dinosource.agency), we've created this amazing website for us! |<code>Javascript</code> <code>Typescript</code><code>Vercel</code><code>HTML</code><code>CSS</code> |
+|[Digital Experience Design](https://www.wearexd.be/)| At Dinosource, we got the amazing opportunity to rebrand our study programme and got to develop this cool new website. | <code>Javascript</code> <code>Typescript</code> <code>React.js</code> <code>Vercel</code> <code>Sanity CMS</code> <code>HTML</code> <code>Tailwind CSS</code> |
 | [Sofa 3D Configurator](https://sofa-configurator-rd3g.vercel.app/) | During my internship at [Flux](https://flux.be), I learned all about React Three Fiber and built this sofa 3D Demo to configure your own customized sectional sofa's! | <code>Javascript</code> <code>Three.js</code> <code>React Three Fiber</code> |
 | [Ricky's space station](https://rickys-space-station.vercel.app/) | For my first THREE project, I build this basic space station. | <code>Javascript</code> <code>THREE.js</code> <code>Vercel</code> |
 | [Marvel's Weather Heroes](https://weather-application-rix11-h.vercel.app/) | An exercise on API connection in which I combined the Marvel api with a weather api. | <code>Javascript</code> <code>API</code> <code>Vercel</code> |
